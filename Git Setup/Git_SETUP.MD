@@ -16,3 +16,24 @@ The commands below will configure Git. Be sure to enter your own information ins
 1. git config --global user.name "Your Name"
 2. git config --global user.email "yourname@example.com"
 ```
+GitHub recently changed the default branch on new repositories from master to main. Change the default branch for Git using this command:
+
+```
+git config --global init.defaultBranch main
+```
+
+To enable colorful output with git, type
+
+```
+git config --global color.ui auto
+```
+
+To verify that things are working properly, enter these commands and verify whether the output matches your name and email address.
+
+```
+1. git config --get user.name
+2. git config --get user.email
+```
+
+<hr>
+
