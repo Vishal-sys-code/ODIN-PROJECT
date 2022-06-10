@@ -34,4 +34,12 @@ While Git works on your local machine, GitHub is a remote storage facility on th
 At its core, Git is a version control tool for software developers who work in a distributed development environment that allows multiple developers to work on a single project without stepping on each other’s code.
 ```
 
-**6.**
+**6.Why are Git and GitHub useful for a team of developers?**
+
+```
+Github is a cloud-based hosting service for Git repositories. It is a tool build on the top of Git. In simple terms, it provides a graphical interface that interacts with Git repositories. It makes it easier for the individual and team to use Git for version control and provide collaboration features such as task management, bug tracking and feature request for every project.
+You can use Github through a web portal or desktop GUI orGit shell.
+```
+
+<hr>
+
